@@ -1,4 +1,4 @@
-# What Kind of Potato Are You?
+# What-Kind-of-Potato-Are-You-
 
 A tiny, silly, one-question-at-a-time personality quiz built with Python and Streamlit.
 
