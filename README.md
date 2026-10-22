@@ -1,6 +1,6 @@
 # What-Kind-of-Potato-Are-You-
 
-A tiny, silly, one-question-at-a-time personality quiz built with Python and Streamlit.
+A tiny, silly, one-question-at-a-time personality quiz built with Python and Streamlit. Answers tumble away before the next question, two bonus potato stamps can be collected along the way, and each of the five results has its own hand-drawn illustration.
 
 ## Run it locally
 

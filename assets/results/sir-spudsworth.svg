@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320" role="img" aria-labelledby="title">
+  <title id="title">Sir Spudsworth the Prepared</title>
+  <path d="M131 262c-12-25-14-61-4-88-19-21-21-55-8-83 16-34 50-49 88-41 36-8 72 9 86 43 11 27 8 57-8 80 12 32 6 68-8 89z" fill="#dca56e" stroke="#392b21" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M145 163c11-11 25-11 35-1m47-2c10-11 24-12 35-2" fill="none" stroke="#392b21" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="164" cy="163" r="4" fill="#392b21"/><circle cx="244" cy="161" r="4" fill="#392b21"/>
+  <path d="M179 201c15 11 33 11 47 0" fill="none" stroke="#392b21" stroke-width="6" stroke-linecap="round"/>
+  <path d="M137 104l17-45 40 23 27-37 28 37 31-21 19 43c-48-12-111-13-162 0z" fill="#8ab3a2" stroke="#392b21" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M186 90l9-30 12 24m34-1 11-28 10 32" fill="none" stroke="#392b21" stroke-width="4" stroke-linecap="round"/>
+  <path d="M300 188l22-28 24 11-5 39-29 4z" fill="#fffdf6" stroke="#392b21" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M307 184l25 4m-27 10 25 3m-26 8 17 2" stroke="#392b21" stroke-width="3" stroke-linecap="round"/>
+  <path d="M120 246l-24-17m193 32 22-19" stroke="#392b21" stroke-width="5" stroke-linecap="round"/>
+  <path d="M159 129l5 2m101-7 5-1m-63 89 6 2" stroke="#9b6840" stroke-width="5" stroke-linecap="round"/>
+</svg>

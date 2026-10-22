@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320" role="img" aria-labelledby="title">
+  <title id="title">Couch Potato Supreme</title>
+  <path d="M46 258c18-10 48-17 78-12 41 7 70-5 117-2 52 4 89-2 130 15l-8 24H57z" fill="#e7a06e" stroke="#392b21" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M121 227c-22-26-18-79 2-111 19-31 55-44 93-37 46 8 72 42 74 83 3 39-19 70-46 88-37 24-93 16-123-23z" fill="#dfa36e" stroke="#392b21" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M134 174c13-17 35-22 52-11 11 8 13 22 4 31-11 11-31 8-39-2-9-11 2-24 15-25" fill="none" stroke="#392b21" stroke-width="5" stroke-linecap="round"/>
+  <path d="M220 174c9-13 27-16 39-5 8 8 7 20-2 26-11 8-25 3-29-6-5-10 5-20 16-19" fill="none" stroke="#392b21" stroke-width="5" stroke-linecap="round"/>
+  <path d="M164 212c17 16 41 17 60 1" fill="none" stroke="#392b21" stroke-width="6" stroke-linecap="round"/>
+  <path d="M87 206c17-13 42-13 60-3l-7 54c-20 9-44 8-61-3z" fill="#6da3a0" stroke="#392b21" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M88 219c18 12 35 12 52 2M85 237c20 10 38 9 57 0" fill="none" stroke="#392b21" stroke-width="4" stroke-linecap="round"/>
+  <path d="M318 70c-17-15-36-15-52-3 4 16 18 25 37 21-1 18 9 31 27 34 13-17 9-37-12-52z" fill="#f4bd45" stroke="#392b21" stroke-width="5"/>
+  <path d="M321 215l8-18m11 25 16-13M98 93l-5-19m-13 29-17-8" stroke="#392b21" stroke-width="4" stroke-linecap="round"/>
+  <path d="M151 108l6 3m36-20 5-2m31 26 7 1" stroke="#9b6840" stroke-width="5" stroke-linecap="round"/>
+</svg>

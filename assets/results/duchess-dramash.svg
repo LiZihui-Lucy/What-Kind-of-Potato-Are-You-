@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320" role="img" aria-labelledby="title">
+  <title id="title">Duchess Dramash</title>
+  <path d="M112 258c14-21 24-40 27-63-24-29-29-75-13-109 16-34 54-50 91-42 44 9 68 46 64 89-2 26-14 48-33 64 5 24 16 44 33 61z" fill="#dcaa78" stroke="#392b21" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M150 165c14-18 31-20 45-8m20-2c12-18 29-20 43-8" fill="none" stroke="#392b21" stroke-width="5" stroke-linecap="round"/>
+  <path d="M164 202c15-18 34-20 47-4 13 17 2 33-13 34-14 1-22-13-14-23 7-8 18-5 21 2m26-12c14 12 27 11 37-2" fill="none" stroke="#392b21" stroke-width="6" stroke-linecap="round"/>
+  <path d="M132 101c-3-33 14-60 37-61l4 18 13-30 10 31 16-26 8 30 20-21 1 34c21-6 35 4 39 25-42-8-105-7-148 0z" fill="#f4bd45" stroke="#392b21" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M89 86c-23 25-30 57-21 91m265-91c23 25 30 57 21 91" fill="none" stroke="#df774d" stroke-width="9" stroke-linecap="round"/>
+  <path d="M89 86l28 13m-32 27 30 7m-29 28 31 2m236-77-28 13m32 27-30 7m29 28-31 2" stroke="#392b21" stroke-width="4" stroke-linecap="round"/>
+  <path d="M106 274c35-13 63-16 89-12m30 0c34-6 61-3 88 12" fill="none" stroke="#392b21" stroke-width="5" stroke-linecap="round"/>
+  <path d="M178 140l5 2m66-6 5-2m-93-19 6 1" stroke="#9b6840" stroke-width="5" stroke-linecap="round"/>
+</svg>
