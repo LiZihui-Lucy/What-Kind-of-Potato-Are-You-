@@ -1,0 +1,9 @@
+[project]
+name = "what-kind-of-potato-are-you"
+version = "0.1.0"
+description = "A tiny Streamlit prototype for a playful potato personality quiz."
+requires-python = ">=3.10"
+dependencies = ["streamlit>=1.57,<2"]
+
+[tool.uv]
+package = false
