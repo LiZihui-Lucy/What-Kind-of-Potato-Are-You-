@@ -12,7 +12,7 @@ The interaction is a loop: make a choice, see the quiz respond, then choose what
 
 ## Screenshot
 
-TODO: Add a screenshot of the quiz or a result before submission.
+Screenshot: a screenshot of the running quiz should be added here before final submission.
 
 ## Run locally
 
@@ -31,4 +31,8 @@ This is a small local experience; a hosted live version is not currently provide
 
 ## Credits
 
-The quiz wording, code, and potato result illustrations were made for this project with AI assistance. The tools and development decisions will be documented in `PROCESS.md`.
+The quiz wording, code, and potato result illustrations were made for this project with AI assistance. See `PROCESS.md` for the design changes, user trial feedback, and tools used.
+
+## Repository
+
+[Public GitHub repository](https://github.com/LiZihui-Lucy/What-Kind-of-Potato-Are-You-)
