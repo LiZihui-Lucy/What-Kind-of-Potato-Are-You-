@@ -12,7 +12,7 @@ The interaction is a loop: make a choice, see the quiz respond, then choose what
 
 ## Screenshot
 
-Screenshot: a screenshot of the running quiz should be added here before final submission.
+![Quiz screenshot showing question 2 and the bonus potato stamp](assets/screenshot.png)
 
 ## Run locally
 
