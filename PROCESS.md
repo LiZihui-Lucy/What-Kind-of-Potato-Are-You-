@@ -10,7 +10,7 @@ I used AI to help write the first version of the Python and Streamlit code. One 
 
 ## AI use
 
-I used ChatGPT/Codex to help draft and revise the code, interface copy, animation, and documentation. I kept the idea of using a falling-answer animation and optional stamps to make choices more playful. I changed the earlier questionnaire-like flow and serious copy in response to the tester's feedback.
+I used ChatGPT to help draft and revise the code, interface copy, animation, and documentation. I kept the idea of using a falling-answer animation and optional stamps to make choices more playful. I changed the earlier questionnaire-like flow and serious copy in response to the tester's feedback.
 
 ## User trial
 
